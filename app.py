@@ -4,8 +4,6 @@ import json
 
 # URL webhook n8n kamu
 N8N_WEBHOOK_URL = "http://localhost:5678/webhook/drug-analysis"
-#N8N_WEBHOOK_URL = "http://localhost:5678/webhook-test/drug-analysis"
-
 
 # Konfigurasi halaman Streamlit
 st.set_page_config(page_title="DrugSense AI", page_icon="💊", layout="centered")
